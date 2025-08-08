@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "com.byyoung.setting",
+    "com.omarea.vtools",
+    "com.tsng.hidemyapplist",
+    "io.virtualapp.sandvxposed64"
+  ]
+}
