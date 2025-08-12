@@ -3,6 +3,7 @@
     "com.byyoung.setting",
     "com.omarea.vtools",
     "com.tsng.hidemyapplist",
-    "io.virtualapp.sandvxposed64"
+    "io.virtualapp.sandvxposed64",
+    "io.github.vvb2060.magisk"
   ]
 }
